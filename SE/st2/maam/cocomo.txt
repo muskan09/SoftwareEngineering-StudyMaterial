@@ -1,0 +1,44 @@
+Problem: Assume that the size of an organic type software product has been estimated to be 32,000 lines of source code. Assume that the average salary of software engineers be Rs. 15,000/- per month. Determine the effort required to develop the software product and the nominal development time. 
+
+Solution: As per the basic COCOMO estimation formula for organic software:
+
+Effort = 2.4 * (32)1.05 = 91 PM 
+Nominal development time = 2.5 * (91)0.38 = 14 months 
+
+Cost required to develop the product = 14 * 15,000 
+                                                  = Rs. 210,000/-
+
+
+
+
+
+
+https://www.slideshare.net/abhinavtheneo/chapter-8-software-testing
+
+//till slide 76
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
